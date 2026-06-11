@@ -1,0 +1,96 @@
+BIO:
+My name is Zyad Wael Mohamed Khedr. I am a Data Science and Mobile Software 
+Engineering student at Alexandria University's Faculty of Computers and Data 
+Science, with an expected graduation date of October 2027.
+
+Since 2023, I have specialized in building high-performance cross-platform 
+mobile applications using the Flutter SDK. My core development philosophy centers 
+on combining Clean Architecture and SOLID principles with intuitive UI/UX design 
+(leveraging Material 3 and the 8-point grid rule). I excel at translating complex 
+functional constraints into smooth, production-grade mobile and desktop applications, 
+frequently integrating conversational AI (such as Gemini AI), real-time database syncing, 
+and hardware-level protocols.
+
+SKILLS:
+* Frameworks & Core Architecture: Flutter SDK (Mobile & Desktop), Flame Engine, 
+                                 Clean Architecture, SOLID Principles
+* State Management: Riverpod, Provider, Cubit
+* Programming Languages: Dart, Python, Java, Swift, SwiftUI (Native iOS Transition)
+* Backend & Cloud Infrastructure: Supabase (Realtime), Firebase, Node.js, 
+                                  RESTful APIs, WebSockets, SQLite
+* AI & Intelligent Systems: Gemini AI, TensorFlow, Machine Learning, Computer Vision
+* Ecosystem & App Deployment: Git/GitHub, Google Play Console, Apple App Store Connect, 
+                              Google Maps API, Google AdMob, CMake, Trello
+* Soft Skills & Leadership: Technical Roadmapping, Team Mentoring (HackerRank Campus Club), 
+                            Cross-Functional Collaboration (SAFWA Committee), Full 
+                            Product Lifecycle Management
+
+PROJECTS:
+[PROJECT 1] Payss – Social Loyalty & Rewards Ecosystem
+* Description: A high-engagement consumer application enabling users to discover 
+  local merchants, interact with gamified social feeds, and earn rewards.
+* Architecture & Tooling: Flutter SDK, Custom QR Scanner, Live Timer System.
+* Highlights: Built a low-latency custom QR scanning ecosystem and live timer logic 
+  for instant reward redemption. Synchronized the mobile client with a web-based 
+  Merchant Dashboard and a dedicated Mobile Merchant App for multi-tenant data 
+  handshakes.
+
+[PROJECT 2] Droplet – Smart Rainwater Harvesting (IoT | Supabase | AI)
+* Description: An eco-friendly cross-platform application designed to monitor and 
+  control solar-powered rainwater harvesting systems targeting UN Sustainable 
+  Development Goals (SDGs).
+* Architecture & Tooling: Flutter SDK, Supabase Realtime, Gemini AI, ESP32 (Hardware).
+* Highlights: Engineered a remote control mechanism to toggle physical container valves 
+  and track water levels live via Supabase Realtime. Embedded a Gemini AI chatbot 
+  to deliver intelligent agricultural and plant recommendations using real-time atmospheric 
+  data (temperature, rainfall, humidity).
+
+[PROJECT 3] MazoBoothMirror – Professional B2B Photo Booth
+* Description: A heavy-duty, commercial event-tech software package deployed as a 
+  desktop photobooth solution.
+* Architecture & Tooling: Flutter SDK, CMake, Native Hardware Integrations.
+* Highlights: Developed optimized native desktop configurations with CMake to manage 
+  high-performance stability and direct hardware peripherals in enterprise environments.
+
+[PROJECT 4] Liquid Navbar (Open-Source Product)
+* Description: A sleek, open-source custom navigation UI package published for the 
+  global developer community.
+* Architecture & Tooling: Dart, Flutter SDK, Pub.dev Publishing Pipeline.
+* Highlights: Designed a modular UI component mimicking premium iOS Liquid Glass 
+  viscous animations. Fully customizable, performance-tuned, and actively maintained on pub.dev.
+
+[PROJECT 5] Iron Incognito – Social Gym Application
+* Description: A multi-tenant, privacy-first fitness social application that allows 
+  users to share workouts and progress under anonymous credentials.
+* Architecture & Tooling: Flutter SDK, Supabase Realtime Backend, Riverpod.
+* Highlights: Structured using feature-first clean architecture to scale multi-user feeds, 
+  incognito profile filters, and real-time community leaderboards.
+
+[PROJECT 6] Klaket – Mobile Acting & Guessing Game
+* Description: A dynamic, multiplayer party and local acting game built for high 
+  visual polish and fast-paced interactions.
+* Architecture & Tooling: Flutter SDK, Flame Game Engine, Google AdMob.
+* Highlights: Engineered custom screen animations and state management loops to ensure 
+  seamless game-state transitions and optimized monetization via non-intrusive AdMob layers.
+
+EXPERIENCE:
+Flutter Developer | ZeroOneZ (Jun 2025 – Present)
+  - Engineered enterprise desktop solutions (Mazo Mirror) utilizing Flutter & CMake.
+  - Took full lifecycle ownership of cross-platform applications (Wofoodi, Amoomy, Raval), 
+    overseeing end-to-end releases on Google Play and Apple App Store.
+  - Implemented Gemini AI interfaces to increase client interaction metrics.
+  - Optimized commercial logistics and retail software tracking by mapping Google Maps 
+    APIs and WebSocket backends.
+
+* Flutter Developer Intern | Cellula Technologies (Jan 2025 – Apr 2025)
+  - Built intelligent meal recommendation engines and AI weather pattern analyzers.
+  - Mastered asynchronous data streams, state management pipelines, and Firebase integrations.
+
+GOALS:
+Short-Term Goal: Deploying this tailored Small Language Model (SLM) directly into 
+  my personal interactive portfolio site to serve as an intelligent, automated technical 
+  agent capable of explaining my code architecture, framework experiences, and project 
+  milestones instantly to recruiters.
+* Long-Term Career Goal: Securing a specialized Mobile Software Engineering, Cross-Platform 
+  Architect, or AI-Driven Application Development role upon graduation in October 2027, 
+  bridging the gap between embedded local intelligence (SLMs/Edge AI) and mobile ecosystems.
